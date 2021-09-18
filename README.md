@@ -31,7 +31,7 @@ This repository consists of solutions to HackerRank **10 days of JavaScript**.
 ## Certificates
 
 [Python-Basic](https://www.hackerrank.com/skills-verification/python_basic) [Certificate](/Skills%20Certification/Python%20(Basic)%20Certificate.png) <br>
-[ Problem Solving-Basic](https://www.hackerrank.com/skills-verification/problem_solving_basic) [Certificate](/Skills%20Certification/Problem%20Solving%20(Basic)%20Certificate.png) |
+[ Problem Solving-Basic](https://www.hackerrank.com/skills-verification/problem_solving_basic) [Certificate](/Skills%20Certification/Problem%20Solving%20(Basic)%20Certificate.png)
 
 
 <p align="center">
