@@ -30,9 +30,8 @@ This repository consists of solutions to HackerRank **10 days of JavaScript**.
 
 ## Certificates
 
-
-|     Python      |     [Test](https://www.hackerrank.com/skills-verification/python_basic)      |    Basic     |         Scalar Types, Operators and Control Flow, Strings, Collections and Iteration, Modularity, Objects and Types and Classes         |      [Certificate](/Skills%20Certification/Python%20(Basic)%20Certificate.png)       |
-| Problem Solving | [Test](https://www.hackerrank.com/skills-verification/problem_solving_basic) |    Basic     |                        Data Structures (such as Arrays, Strings) and Algorithms (such as Sorting and Searching)                         | [Certificate](/Skills%20Certification/Problem%20Solving%20(Basic)%20Certificate.png) |
+[Python-Basic](https://www.hackerrank.com/skills-verification/python_basic) [Certificate](/Skills%20Certification/Python%20(Basic)%20Certificate.png) <br>
+[ Problem Solving-Basic](https://www.hackerrank.com/skills-verification/problem_solving_basic) [Certificate](/Skills%20Certification/Problem%20Solving%20(Basic)%20Certificate.png) |
 
 
 <p align="center">
